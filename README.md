@@ -26,3 +26,6 @@ So the basic layout of the two webpages of this project looks like-
 ![Screenshot 2023-06-24 212750](https://github.com/abhijeetksinha19/IMDb_Clone/assets/106515990/fd57e2b7-f7ec-4c91-8c52-baebc1ecb8aa)
 
 ![Screenshot 2023-06-24 032007](https://github.com/abhijeetksinha19/IMDb_Clone/assets/106515990/a1257e5f-6bc2-4293-bb99-629cb4e328b0)
+
+
+Live deployed link of the project is https://abhijeetksinha19.github.io/IMDb_Clone/ 
