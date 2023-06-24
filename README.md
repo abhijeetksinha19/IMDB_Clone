@@ -10,8 +10,10 @@ ii) MOVIE INFORMATION PAGE
 
 Home Page
 Home Page is Bassically divided in two different sections-
+
   a) First section consists of a container which contains all the search results 
-  ![Screenshot 2023-06-24 212919](https://github.com/abhijeetksinha19/IMDb_Clone/assets/106515990/2faa974b-c06d-46f5-8c65-8186b5850ccf)
+     ![Screenshot 2023-06-24 212919](https://github.com/abhijeetksinha19/IMDb_Clone/assets/106515990/aae6e9fd-c103-4321-8c5b-5f58f80a43bb)
+
   
   b) Second section is a container which will store all the list of favourite movies in an     
      unorderd list as selected by the user
